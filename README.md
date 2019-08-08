@@ -4,3 +4,5 @@ Turkish translation of the "Mastering Bitcoin 2nd Edition" by Andreas M. Antonop
 Mastering Bitcoin is your guide through the seemingly complex world of bitcoin, providing the knowledge you need to participate in the internet of money. Available at: https://bitcoinbook.info/
 
 The original project is available here: https://github.com/bitcoinbook/bitcoinbook
+
+The Turkish translation is performed on the Transifex.com platform: https://www.transifex.com/aantonop/mastering-bitcoin/language/tr/
